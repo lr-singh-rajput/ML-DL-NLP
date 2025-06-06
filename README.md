@@ -216,7 +216,3 @@ st.write(f"Prediction: {pred[0]}")
 
 ---
 
-### 👨‍🎓 Created by Rudra Singh
-> "Ye guide banayi gayi hai ek complete beginner se expert banane ke liye — step by step, Hinglish mein."
-
----
